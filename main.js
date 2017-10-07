@@ -1,3 +1,1 @@
-var a=100;
-console.log(a);
-xxx
+我叫比尔·盖通
